@@ -1,0 +1,4 @@
+policy,start_action,nominal_return,worst_case_return,nominal_cost,worst_case_cost,cost_threshold,robust_feasible
+risky,0,0.8667609999999999,0.32489999999999997,0.036689,0.5966,0.1,False
+safe,1,0.8145062499999999,0.8145062499999999,0.0,0.0,0.1,True
+best_robust_feasible,1,0.8145062499999999,0.8145062499999999,0.0,0.0,0.1,True

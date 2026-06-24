@@ -35,3 +35,21 @@ The first milestone is:
 git clone https://github.com/Ariel-618/RobustSafeRL-Lab.git
 cd RobustSafeRL-Lab
 pip install -e .
+```
+
+## First Experiment
+
+Run the finite-model TwoPathCMDP policy comparison:
+
+```bash
+py examples/02_solve_finite_rcmdp.py
+```
+
+The command prints the results and saves reproducible artifacts under:
+
+```text
+results/two_path_cmdp/experiment_001/
+```
+
+The directory contains a Markdown summary, machine-readable CSV metrics, and a
+policy comparison figure.
