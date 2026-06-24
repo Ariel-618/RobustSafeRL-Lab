@@ -1,0 +1,4 @@
+```txt
+numpy
+matplotlib
+pytest
